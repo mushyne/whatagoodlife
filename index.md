@@ -19,9 +19,7 @@ Une des choses que j'apprécie particulièrement dans ce manga est qu'il est tru
 - le nom des antagonistes / personnages secondaires
 - le nom des pouvoirs des personnages (à partir de la partie 3)
 
-Tableau manga VS référence : 
-
-[img](blablabla/jojopart1.jpg)
+[Tableau des références musicales](pages/tableau.md) : 
 
 ## Collaborations 
 
