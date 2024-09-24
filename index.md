@@ -23,4 +23,6 @@ Here you can find a recipe
 
 ![img](img/jojo.png)
 
+![cc](list/jojopart1.jpg)
+
                                                           
