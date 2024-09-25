@@ -13,6 +13,8 @@ L'histoire est centrée sur la famille Joestar et s'étend sur plusieurs génér
 Chaque arc de la série met en avant un "Jojo" (sauf dans l'arc 5), tous les personnages de la famille ayant un prénom commençant par -Jo et un nom de famille contenant la syllabe -Jo. 
 Au cours de leurs aventures, les protagonistes évoluent dans différents pays : Angleterre, Etats-Unis, Japon, Inde, Pakistan, Egypte, ... 
 
+## Personnages 
+
 ## Musique 
 
 Une des choses que j'apprécie particulièrement dans ce manga est qu'il est truffé de références musicales, ces références peuvent se trouver dans : 
