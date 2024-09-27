@@ -21,7 +21,7 @@ J'ai choisi de me centrer sur les 6 premières parties du manga bien que celui-c
 
 ## Personnages 
 
-Comme je l'ai dit précédemment, chaque partie est centrée sur un personnage faisant partie de la famille Joestar (à l'exception de la partie 5), ils possèdent d'ailleurs tous une étoile près de leur épaule gauche qui montre l'appartenance à cette famille. Comme cela peut-être un peu compliqué de s'y retrouver, j'ai créé un arbre généalogique de leur famille afin que vous puissiez vous y retrouver.
+Comme je l'ai dit précédemment, chaque partie est centrée sur un personnage faisant partie de la famille Joestar (à l'exception de la partie 5), ils possèdent d'ailleurs tous une tâche de naissance en forme d'étoile près de leur épaule gauche qui montre l'appartenance à cette famille. Comme cela peut-être un peu compliqué de s'y retrouver, j'ai créé un arbre généalogique de leur famille afin que vous puissiez vous y retrouver.
 
 [arbre généalogique](pages/arbreg.md)
 
