@@ -176,7 +176,7 @@ Une des choses que j'apprécie particulièrement dans ce manga est qu'il est tru
 - le nom des pouvoirs des personnages (à partir de la partie 3)
 
 Cela fait de ce manga une oeuvre très riche culturellement puisqu'il mentionne plus de 200 artistes ou musiques différentes. 
-Ici, vous pouvez trouver une liste ~complète~ (non, ça aurait pris trop de temps), de certains des artistes qu'on peut y retrouver. 
+Ici, vous pouvez trouver une liste ~~complète~~ (non, ça aurait pris trop de temps), de certains des artistes qu'on peut y retrouver. 
 
 [Tableau des références musicales](pages/tableau.md) : 
 
