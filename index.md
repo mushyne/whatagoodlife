@@ -145,7 +145,7 @@ Personnages notables :
 
 - *Diavolo*
 
-### Partie 6 *(Stone Ocean)*
+### Partie 6 *(Stone Ocean)*:
 
 ![part6](img/jojopart6.jpg)
 
@@ -199,7 +199,7 @@ L'artiste a également collaboré avec des galeries d'art telles que le Centre N
 ## Manga (pour aller plus loin) 
 
 Comme je l'ai dit précédemment, le manga Jojo's Bizarre Adventures est composé de 9 arcs (pour le moment). 
-Chaque partie est composé de plusieurs tomes : 
+Chaque partie est composée de plusieurs tomes : 
 
 - Phantom Blood > 5 tomes
 
