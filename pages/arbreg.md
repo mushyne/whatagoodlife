@@ -8,7 +8,7 @@ George Joestar + Mary Joestar
 >>>
 >>> *Joseph Joestar + Tomoko Higashikata*
 
-`Joseph Joestar a trompé Suzie Q lors d'un voyage au Japon, c'est dans ces circonstances que Josuke a vu le jour.`~men...~
+`Joseph Joestar a trompé Suzie Q lors d'un voyage au Japon, c'est dans ces circonstances que Josuke a vu le jour.` ~men... am I right?~
 
 >>>> Holy Joestar (ou Seiko Kujo, *nom japonais*) + Sadao Kujo
 >>>> 
