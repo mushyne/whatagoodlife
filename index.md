@@ -12,7 +12,7 @@ Avec plus de 120 millions d'exemplaires en circulation, c'est l'un des mangas le
 Le manga est adapté en une série d'OAV de treize épisodes produite par Studio APPP dans les années 1990 et 2000, qui retrace une partie de la troisième partie du manga. Une nouvelle série télévisée d'animation produite par David Production est diffusée depuis octobre 2012 et adapte les six premières parties. 
 
 L'histoire est centrée sur la famille Joestar et s'étend sur plusieurs générations allant du XIXe siècle jusqu'à de nos jours. 
-Chaque arc de la série met en avant un "Jojo" (sauf dans l'arc 5), tous les personnages de la famille ayant un prénom commençant par -Jo et un nom de famille contenant la syllabe -Jo. 
+Chaque arc de la série met en avant un "Jojo" (sauf dans l'arc 5), tous les personnages de la famille ayant un prénom commençant par -Jo. 
 Au cours de leurs aventures, les protagonistes évoluent dans différents pays : Angleterre, Etats-Unis, Japon, Inde, Pakistan, Egypte, ... 
 
 J'ai choisi de me centrer sur les 6 premières parties du manga bien que celui-ci en possède 9 car elles ont déjà été adaptées en animé. 
@@ -22,6 +22,8 @@ J'ai choisi de me centrer sur les 6 premières parties du manga bien que celui-c
 ## Personnages 
 
 Comme je l'ai dit précédemment, chaque partie est centrée sur un personnage faisant partie de la famille Joestar (à l'exception de la partie 5), ils possèdent d'ailleurs tous une étoile près de leur épaule gauche qui montre l'appartenance à cette famille. Comme cela peut-être un peu compliqué de s'y retrouver, j'ai créé un arbre généalogique de leur famille afin que vous puissiez vous y retrouver.
+
+[arbre généalogique](pages/arbreg.md)
 
 >**Les noms écrits en gras sont les noms des personnages qui sont présents dans une partie antérieure**
 >
@@ -143,6 +145,28 @@ Personnages notables :
 
 - *Diavolo*
 
+### Partie 6 *(Stone Ocean)*
+
+![part6](img/jojopart6.jpg)
+
+- Jolyne Kujo
+
+- **Jotaro Kujo**
+
+- Ermes Costello
+
+- F.F.
+
+- Emporio Alnino
+
+- Anasui Narciso
+
+- Weather Report
+
+- *Enrico Pucci*
+
+- *Green Baby* `Green baby n'est pas rééllement un antagoniste puisqu'il s'agit d'un bébé et qu'il n'est pas rééllement conscient de ses actions cependant il représente une menace pour Jolyne et ses compagnons.`
+
 * * *
 
 ## Musique 
@@ -172,9 +196,28 @@ L'artiste a également collaboré avec des galeries d'art telles que le Centre N
 
 ![image](https://github.com/user-attachments/assets/ca95b369-9b1d-49fc-88c5-078d2f97dd48)
 
-éléments à insérer : 
+## Manga (pour aller plus loin) 
 
-Preformatted code`printf()` affiche un truc en bleu ex description
+Comme je l'ai dit précédemment, le manga Jojo's Bizarre Adventures est composé de 9 arcs (pour le moment). 
+Chaque partie est composé de plusieurs tomes : 
 
-- blockquotes >cc
->re cc
+- Phantom Blood > 5 tomes
+
+- Battle Tendency > 7 tomes 
+
+- Stardust Crusaders > 16 tomes 
+
+- Diamond is Unbreakable > 18 tomes 
+
+- Golden Wind > 17 tomes 
+
+- Stone Ocean > 17 tomes 
+
+- Steel Ball Run > 24 tomes 
+
+- Jojolion > 27 tomes 
+
+- Jojoland > 4 tomes *(en cours)*
+
+`Pour conclure j'aimerais ajouter qu'on mentionne souvent One Piece comme étant l'un des mangas les plus longs (ce qui est faux !) en réalité, bien que son adaptation en anime comporte plus de 1000 épisodes - face à seulement 190 pour Jojo - One Piece n'est composé "que" de 106 tomes (environ 23 000 pages) face à 132 tomes (environ 25 000 pages) pour Jojo's Bizarre Adventures.`
+
