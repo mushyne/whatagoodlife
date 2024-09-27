@@ -8,6 +8,8 @@ George Joestar + Mary Joestar
 >>>
 >>> *Joseph Joestar + Tomoko Higashikata*
 
+`Joseph Joestar a trompé Suzie Q lors d'un voyage au Japon, c'est dans ces circonstances que Josuke a vu le jour.`~men...~
+
 >>>> Holy Joestar (ou Seiko Kujo, *nom japonais*) + Sadao Kujo
 >>>> 
 >>>> *Josuke Higashikata*
@@ -18,8 +20,9 @@ George Joestar + Mary Joestar
 <br/>
 <br/>
 <br/>
+
 Dario Brando + ???
 
 >Dio Brando + ??? 
 
->>Giorno Giovanna
+>>Giorno Giovanna `Lui aussi peut-être considéré comme "membre de la famille Joestar" étant donné que son père, Dio, s'est approprié le corps de Jonathan Joestar. C'est d'ailleurs la raison pour laquelle Giorno possède lui aussi une tâche de naissance en forme d'étoile sur le corps. On peut également ajouter à cela le fait que Dio est le "frère" de Jonathan puisqu'il a été adopté par George Joestar à la mort de son père.`
