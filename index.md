@@ -221,3 +221,4 @@ Chaque partie est composée de plusieurs tomes :
 
 `Pour conclure j'aimerais ajouter qu'on mentionne souvent One Piece comme étant l'un des mangas les plus longs (ce qui est faux !) en réalité, bien que son adaptation en anime comporte plus de 1000 épisodes - face à seulement 190 pour Jojo - One Piece n'est composé "que" de 106 tomes (environ 23 000 pages) face à 132 tomes (environ 25 000 pages) pour Jojo's Bizarre Adventures.`
 
+© Je ne possède pas les images affichées sur ce blog, tous droits réservés aux ayants droits, je les utilise juste dans le cadre d'un projet universitaire à but non lucratif. 
