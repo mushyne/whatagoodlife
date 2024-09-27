@@ -196,6 +196,8 @@ L'artiste a également collaboré avec des galeries d'art telles que le Centre N
 
 ![image](https://github.com/user-attachments/assets/ca95b369-9b1d-49fc-88c5-078d2f97dd48)
 
+* * *
+
 ## Manga (pour aller plus loin) 
 
 Comme je l'ai dit précédemment, le manga Jojo's Bizarre Adventures est composé de 9 arcs (pour le moment). 
