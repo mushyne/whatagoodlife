@@ -14,13 +14,11 @@
 |  ZZ  |  Wheel of Fortune  |  ZZ Top  | https://youtu.be/bSt4myecN_c?si=1chUZcJHkxG24wdw | partie 3 |
 |  Iggy  |  The Fool  |  Iggy Pop  | https://youtu.be/-fWw7FE9tTo?si=R3b29lIxgooh1JDo | partie 3 |
 |  Josuke Higashikata  |  Crazy Diamond  |  Shine on You Crazy Diamond - Pink Floyd  | https://youtu.be/54W8kktFE_o?si=evCwARufdqIKO5EN | partie 4 |
-|  Rohan Kishibe  |  Heaven's Door  |  Knockin' on Heaven's Door - Bob Dylan  | https://youtu.be/rm9coqlk8fY?si=Kmn_BSoJwHJle-Gs | partie 4 |
-~~le meilleur~~
+|  Rohan Kishibe ~~le meilleur~~  |  Heaven's Door  |  Knockin' on Heaven's Door - Bob Dylan  | https://youtu.be/rm9coqlk8fY?si=Kmn_BSoJwHJle-Gs | partie 4 |
 |  Mikitaka Hazekura  |  All'N All  |  All'N All - Earth, Wind & Fire  | https://youtu.be/r58GQYFZeLE?si=C_ig_7CYqXmNtgIG | partie 4 |
 |  Akira Otoichi  |  Red Hot Chili Peppers  |  Red Hot Chili Peppers  | https://youtu.be/Q0oIoR9mLwc?si=P3cDWYDZYWxP5LZf | partie 4 |
 |  Kira Yoshihiro  |  Atom Heart Father  | Atom Heart Mother - Pink Floyd  | https://youtu.be/e7t7aQLcik0?si=1Ru-KwOiR1EqfgEq | partie 4 |
-|  Kira Yoshikage  | Killer Queen / Sheer Heart Attack / Bites the Dust  |  Killer Queen / Sheer Heart Attack / Another one Bite the Dust - Queen  | https://youtu.be/2ZBtPf7FOoM?si=KC66pr8uSE2gAJr7 / https://youtu.be/rkHF_JMnB8o?si=6t-w1fj8UcD0nFoK / https://youtu.be/rY0WxgSXdEE?si=7p435VtYa9_To0ky | partie 4 |
-'c'est le méchant donc il a plein de pouvoir mouahaha'
+|  Kira Yoshikage 'c'est le méchant donc il a plein de pouvoir mouahaha'  | Killer Queen / Sheer Heart Attack / Bites the Dust  |  Killer Queen / Sheer Heart Attack / Another one Bite the Dust - Queen  | https://youtu.be/2ZBtPf7FOoM?si=KC66pr8uSE2gAJr7 / https://youtu.be/rkHF_JMnB8o?si=6t-w1fj8UcD0nFoK / https://youtu.be/rY0WxgSXdEE?si=7p435VtYa9_To0ky | partie 4 |
 |  Bruno Buccellati  |  Sticky Fingers  | Sticky Fingers - The Rolling Stones  | https://youtu.be/lJD2OtTaywo?si=H8qOQgq7mDnkhTXK | partie 5 |
 |  Mista Guido  |  Sex Pistols  |  Sex Pistols  | https://youtu.be/jRX1fM0vg8E?si=CfeQ3RE1SmwcKb8T | partie 5 |
 |  Narancia Ghirga  |  Aerosmith  |  Aerosmith  | https://youtu.be/89dGC8de0CA?si=FxllCds2edz36fYf | partie 5 |
