@@ -27,7 +27,7 @@ As I said earlier, each part is centered on a character from the Joestar family 
 >*Names in italics are the names of antagonists.*
 
 ### Part 1 (Phantom Blood): 
-![part1](img/jojopart1.jpg)
+![part1](../img/jojopart1.jpg)
 
 Notable personalities : 
 
