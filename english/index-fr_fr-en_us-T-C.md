@@ -20,7 +20,7 @@ I've chosen to focus on the first 6 parts of the manga, even though it has 9, as
 
 As I said earlier, each part is centered on a character from the Joestar family (with the exception of part 5), and they all have a star-shaped birthmark near their left shoulder that shows they belong to this family. As it can be a bit tricky to find your way around, I've created a family tree of theirs so you can find your way around.
 
-[family tree](arbreg-fr_fr-en_us-T-C.md)
+[family tree](english/arbreg-fr_fr-en_us-T-C.md)
 
 >**Names written in bold are the names of characters who appear in an earlier part.**
 >
@@ -172,7 +172,7 @@ One of the things I particularly like about this manga is that it's packed with 
 
 This makes the manga a very culturally rich work, since it mentions over 200 different artists and musical styles. Here you can find a ~~complete~~ list (no, that would have taken too long), of some of the artists who can be found there. 
 
-[Table of musical references](tableau-fr_fr-en_us-T-C.md)
+[Table of musical references](english/tableau-fr_fr-en_us-T-C.md)
 
 * * *
 
