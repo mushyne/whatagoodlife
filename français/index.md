@@ -23,7 +23,7 @@ J'ai choisi de me centrer sur les 6 premières parties du manga bien que celui-c
 
 Comme je l'ai dit précédemment, chaque partie est centrée sur un personnage faisant partie de la famille Joestar (à l'exception de la partie 5), ils possèdent d'ailleurs tous une tâche de naissance en forme d'étoile près de leur épaule gauche qui montre l'appartenance à cette famille. Comme cela peut-être un peu compliqué de s'y retrouver, j'ai créé un arbre généalogique de leur famille afin que vous puissiez vous y retrouver.
 
-[arbre généalogique](pages/arbreg.md)
+[arbre généalogique](français/arbreg.md)
 
 >**Les noms écrits en gras sont les noms des personnages qui sont présents dans une partie antérieure**
 >
@@ -178,7 +178,7 @@ Une des choses que j'apprécie particulièrement dans ce manga est qu'il est tru
 Cela fait de ce manga une oeuvre très riche culturellement puisqu'il mentionne plus de 200 artistes ou musiques différentes. 
 Ici, vous pouvez trouver une liste ~~complète~~ (non, ça aurait pris trop de temps), de certains des artistes qu'on peut y retrouver. 
 
-[Tableau des références musicales](pages/tableau.md)
+[Tableau des références musicales](français/tableau.md)
 
 * * *
 
