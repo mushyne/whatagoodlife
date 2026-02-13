@@ -20,10 +20,7 @@ I've chosen to focus on the first 6 parts of the manga, even though it has 9, as
 
 As I said earlier, each part is centered on a character from the Joestar family (with the exception of part 5), and they all have a star-shaped birthmark near their left shoulder that shows they belong to this family. As it can be a bit tricky to find your way around, I've created a family tree of theirs so you can find your way around.
 
-[family tree](../arbreg-fr_fr-en_us-T-C.md)
 [family tree](arbreg-fr_fr-en_us-T-C.md)
-[family tree](whatagoodlife/english/arbreg-fr_fr-en_us-T-C.md)
-[family tree](english/arbreg-fr_fr-en_us-T-C.md)
 
 >**Names written in bold are the names of characters who appear in an earlier part.**
 >
