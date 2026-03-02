@@ -1,7 +1,5 @@
 # Jojo's Bizarre Adventures 
 
-![image](https://github.com/user-attachments/assets/8917a444-5135-440b-b02f-52808289a967)
-
 * * *
 
 ## Introduction  
